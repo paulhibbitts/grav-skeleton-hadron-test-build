@@ -1,0 +1,22 @@
+title: 'Grav Website Demo'
+default_lang: de
+author:
+  name: 'Crabston GmbH'
+  email: contact@crabston.dev
+taxonomies:
+  - category
+  - tag
+  - month
+  - author
+  - filter
+metadata:
+  description: 'Dies ist eine inoffizielle Demoseite der Crabston GmbH über Grav CMS. Sie dient als Beispiel für die Verwendung von Grav und zeigt die Möglichkeiten des CMS.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: '/blog'
